@@ -1,8 +1,10 @@
-# ecommerce-data-analysis
+# E-Commerce Data Analysis
 An end-to-end data analytics project that analyzes e-commerce sales performance, customer activity, product performance, payment methods, and shipment status using Python, PostgreSQL, SQL, and Power BI.
 
 ## 📌 Project Overview
-This project was developed to demonstrate an end-to-end data analytics workflow, starting from synthetic e-commerce data generation and database management to SQL, based analysis and interactive business intelligence visualization. The project focuses on transforming raw transactional data into meaningful business insights that can support sales monitoring and decision-making.
+This project demonstrates an end-to-end data analytics workflow, starting from synthetic e-commerce data generation and relational database management to SQL-based analysis and interactive business intelligence visualization.
+
+The project focuses on transforming transactional data into meaningful business insights that can support sales monitoring, performance evaluation, and data-driven decision-making.
 
 ### Key Areas of Analysis
 - Sales and revenue performance
@@ -13,6 +15,7 @@ This project was developed to demonstrate an end-to-end data analytics workflow,
 - Payment method distribution
 - Shipment status
 - Customer and order activity
+- Average Order Value (AOV)
 
 ## 🎯 Business Questions
 
@@ -66,3 +69,9 @@ Business Insights
 Power BI Dashboard
    ↓
 Interactive Business Intelligence Report
+```
+
+## 📚 Project Documentation
+
+This project also includes documentation covering the relational database design, including ERD, normalization, constraints, SQL implementation, indexing, and transaction management.
+👉 **[View E-Commerce Transaction Database System (RDBMS) on Notion](https://app.notion.com/p/E-Commerce-Transaction-Database-System-RDBMS-398f71b14f05808c855bf4133d41d42b?source=copy_link)**
